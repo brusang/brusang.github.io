@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Batiatus Solutions 2017
+  copyright: Batiatus Solutions
   location: Ubicacion
   social: Redes Sociales
-  # credits: Credits
+  credits: Atención Telefónica
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: 2000 Rosario
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Comuníquese al +5493416109022 para recibir atención telefónica'
 
 # Build settings
 markdown: kramdown
